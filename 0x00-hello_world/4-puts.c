@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
- * Just printing
+ * main - the necessary function
+ *
+ * puts - printing on screen
+ *
+ * Return: return zero
  */
 
 int main(void)
